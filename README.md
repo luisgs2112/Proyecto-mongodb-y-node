@@ -13,8 +13,3 @@ Este proyecto es una aplicación de consola desarrollada en Node.js que interact
 - MongoDB (Local/Compass)
 - Mongoose (ODM)
 - Dotenv (Variables de entorno)
-
-3. Instrucciones para ejecutar
-- Clonar el repositorio:
-
-   git clone 
